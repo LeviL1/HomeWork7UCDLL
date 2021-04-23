@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 91d77e963d59088418df7ea864336908
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - m_ViewDataDictionary: {instanceID: 0}
+  - JumpSound: {fileID: 7219316703975087902, guid: 0ef62505047263544af30d467c9087e9, type: 3}
+  - ShootSound: {fileID: 6000648403688798474, guid: 040149be6645d2641ace42a47b0b5df7, type: 3}
+  - DestSound: {fileID: 6103555278066750731, guid: c49801183ce918c42abb137ced623717, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
